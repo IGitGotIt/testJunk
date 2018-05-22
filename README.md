@@ -1,12 +1,4 @@
-A
-B
-B1
+one
 
-again we revert back
-undo
-<<<<<<< HEAD
-undo1
-=======
->>>>>>> master
 
 
